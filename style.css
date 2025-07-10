@@ -9,3 +9,77 @@ body {
   font-weight: bold;
   font-style: normal;
 }
+
+
+
+.raleway-fonts {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+
+/* button color effect */
+.btn-primary{
+  color:white;
+  background-color: #4E47FF;
+  border:none;
+  padding: 10px 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+
+.btn-primary:hover {
+  background-color: rgba(78, 71, 255, 0.1);
+  color: #4e47ff;
+  border: 1px solid #4f4ae4;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* navbar-section area */
+
+.header {
+  height:550px;
+  background-image: url('Assets/Hero-bg.png');
+  background-repeat: no-repeat;
+}
+
+
+.navbar-section {
+  display: flex;
+  justify-content: space-between;
+  padding:30px 100px;
+}
+
+
+.logo-left {
+
+  color:#4E47FF;
+  font-size: 30px;
+  font-weight: 900;
+}
+.hero-banner {
+  display: flex;
+  justify-content: center;
+}
+.hero-banner-content {
+  width:800px;
+  height: 150px auto;
+  text-align: center;
+  align-items: center;
+
+}
+
+.hero-title {
+  font-size: 60px;
+  color: #252432;
+}
+
+
+.hero-button {
+  padding: 15px 30px;
+}
