@@ -52,7 +52,7 @@ body {
 .navbar-section {
   display: flex;
   justify-content: space-between;
-  padding:30px 100px;
+  padding:30px 150px;
 }
 
 
@@ -83,3 +83,30 @@ body {
 .hero-button {
   padding: 15px 30px;
 }
+
+/* action Section area */
+
+
+.action-content {
+  display: flex;
+  margin:100px 150px;
+  justify-content: space-between;
+
+}
+
+.action-title {
+  font-size: 40px;
+
+}
+.action-dis {
+  width:250px;
+  color:#252432;
+  font-weight: 300;
+
+}
+
+.action-right-side img {
+  border-radius: 40px;
+}
+
+
