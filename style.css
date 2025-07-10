@@ -1,0 +1,11 @@
+body {
+    margin:0px;
+}
+/* google fonts */
+
+.inter-fonts {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
