@@ -87,7 +87,7 @@ body {
 /* action Section area */
 
 
-.action-content {
+.action-section{
   display: flex;
   margin:100px 150px;
   justify-content: space-between;
@@ -109,4 +109,43 @@ body {
   border-radius: 40px;
 }
 
+/* productive-Section */
 
+
+.productive-Section {
+  margin:100px 150px;
+  background-color: #7575ff29;
+  border-radius: 40px;
+  padding: 50px;
+
+}
+
+.productive-title {
+  text-align: center;
+  color: #252432;
+  font-size: 30px;
+}
+
+.productive-data  {
+  display: flex;
+  gap: 150px;
+  justify-content: center;
+}
+
+
+
+.data {
+  text-align: center;
+}
+.user-count {
+  font-size: 80px;
+  color:#4E47FF;
+  margin-bottom: 0px;
+  
+}
+
+.user-sub  {
+  font-size: 20px;
+  color:#00000078;
+  font-weight: 200;
+}
