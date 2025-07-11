@@ -24,9 +24,9 @@ body {
 
 /* button color effect */
 .btn-primary{
-  color:white;
+  color: white;
   background-color: #4E47FF;
-  border:none;
+  border: 1px solid transparent;
   padding: 10px 18px;
   border-radius: 5px;
   cursor: pointer;
@@ -78,6 +78,7 @@ body {
 .hero-title {
   font-size: 60px;
   color: #252432;
+  margin-top: 100px;
 }
 
 
