@@ -53,7 +53,7 @@ body {
 .navbar-section {
   display: flex;
   justify-content: space-between;
-  padding:30px 150px;
+  padding:50px 150px;
 }
 
 
@@ -78,7 +78,7 @@ body {
 .hero-title {
   font-size: 60px;
   color: #252432;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 
